@@ -1,5 +1,5 @@
 # Write your code here
-#method one
+#method 1
 def usd_to_eur(dollar)
   return "Dollars to Euros is #{dollar * .85}"
 end

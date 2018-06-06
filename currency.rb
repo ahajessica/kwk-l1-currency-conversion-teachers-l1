@@ -1,6 +1,7 @@
 # Write your code here
 #method one
 def usd_to_eur(dollar)
+  
   return
 end
 

@@ -1,12 +1,12 @@
 # Write your code here
 #method one
 def usd_to_eur(dollar)
-  
-  return
+  return "Dollars to Euros is #{dollar * .85}"
 end
+puts usd_to_eur(11)
 
 #method 2
 def eur_to_usd(euros)
-  return
+  return "Euros to Dollars is #{euros *"
   
 end
